@@ -1,5 +1,4 @@
 # dumbways
-soaltest
 
 
 ini adalah jawaban untuk Technical Bootcamp DumbWays Batch 16 Kloter 2.
